@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UserDetailsViewController.followerList():UserDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "client">
+            </PersistentString>
+            <PersistentString
+               value = "UserID">
+            </PersistentString>
+            <PersistentString
+               value = "UserScreenname">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ListOfFriendsViewController.callForFollowingList():ListOfFriendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "                    print(i)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ListOfFriendsViewController.callForFollowerList():ListOfFriendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(i)">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;next_cursor&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListOfFriendsViewController.callForFollowingList():ListOfFriendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "client.userID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListOfFriendsViewController.viewDidLoad():ListOfFriendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UserDetailsViewController.followerList():UserDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(json)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

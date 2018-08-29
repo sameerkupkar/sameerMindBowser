@@ -1,0 +1,20 @@
+PODS:
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.0):
+    - TwitterCore (>= 3.1.0)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.0)
+  - TwitterKit (~> 3.0)
+
+SPEC CHECKSUMS:
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: bc7bd086b9b724a1d888745a054e1d0b1ecc4f3f
+
+PODFILE CHECKSUM: f57619728f3af59888cc9f110ae4b361a9d31cff
+
+COCOAPODS: 1.4.0
